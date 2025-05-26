@@ -1,4 +1,4 @@
-# 🚢 Titanic Dataset - Data Cleaning & Preprocessing
+#  Titanic Dataset - Data Cleaning & Preprocessing
 
 This project demonstrates how to clean and preprocess raw data from the Titanic dataset using Python tools like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**.
 
@@ -117,6 +117,7 @@ Cabin          687
 Embarked         2
 dtype: int64
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/8f591520-e755-4442-8886-b2973b853536" />
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/cc768e54-ece4-4d25-8a5e-3accc592b05f" />
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/39728283-2412-4832-b03f-7d46dfef828e" />
+
 
 
